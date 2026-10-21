@@ -1,0 +1,8 @@
+# 编译产物
+build/
+*.o
+*.exe
+
+# 输入视频（太大，不传）
+video/*.avi
+video/*.mp4

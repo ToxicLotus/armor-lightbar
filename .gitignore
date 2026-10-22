@@ -6,3 +6,5 @@ build/
 # 输入视频（太大，不传）
 video/*.avi
 video/*.mp4
+# 调参过程的中间产物，不进版本库
+output/02_调试排查/
